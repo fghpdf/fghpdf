@@ -12,8 +12,8 @@
 
 ## Now I am doing 🚩
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fghpdf&repo=mysqlMigration)](https://github.com/fghpdf/mysqlMigration)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fghpdf&repo=gin-project-template)](https://github.com/fghpdf/gin-project-template)
 
-It's a tool like [dbsave](https://github.com/abg/dbsake) in go for MySQL. 
+It's a template for using Gin to develop a project.
 
 If you have some idea, pls contact me.
