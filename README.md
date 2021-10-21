@@ -7,6 +7,7 @@
 - 💬 Ask me about email: 
   * quxiangxuanqxx@gmail.com
   * quxiangxuanqxx@hotmail.com
+  * fghpdf@outlook.com
 
 ![fghpdf's github stats](https://github-readme-stats.vercel.app/api?username=fghpdf&show_icons=true)
 
