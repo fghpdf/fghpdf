@@ -9,10 +9,13 @@
   * quxiangxuanqxx@hotmail.com
   * fghpdf@outlook.com
 
-![fghpdf's github stats](https://github-readme-stats.vercel.app/api?username=fghpdf&show_icons=true)
+![fghpdf's github stats](https://github-readme-stats.vercel.app/api?username=fghpdf&show_icons=true&theme=tokyonight )
+
+## My Lanuage
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fghpdf&exclude_repo=leetcode,Company_End&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Now I am doing 🚩
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fghpdf&repo=simple-orderbook)](https://github.com/fghpdf/simple-orderbook)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fghpdf&repo=simple-orderbook&theme=tokyonight )](https://github.com/fghpdf/simple-orderbook)
 
 If you have some idea, pls contact me.
