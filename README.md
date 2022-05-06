@@ -13,8 +13,6 @@
 
 ## Now I am doing 🚩
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fghpdf&repo=gin-project-template)](https://github.com/fghpdf/gin-project-template)
-
-It's a template for using Gin to develop a project.
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fghpdf&repo=simple-orderbook)](https://github.com/fghpdf/simple-orderbook)
 
 If you have some idea, pls contact me.
