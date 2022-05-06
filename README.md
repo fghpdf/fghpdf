@@ -12,7 +12,7 @@
 ![fghpdf's github stats](https://github-readme-stats.vercel.app/api?username=fghpdf&show_icons=true&theme=tokyonight )
 
 ## My Lanuage
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fghpdf&exclude_repo=leetcode,Company_End&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fghpdf&exclude_repo=leetcode,Company_End&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Now I am doing 🚩
 
