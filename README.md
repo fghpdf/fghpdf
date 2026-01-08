@@ -56,25 +56,36 @@ Software Engineer passionate about building scalable systems and contributing to
 
 </div>
 
-## 🌟 Featured Projects
+## 🏆 Open Source Contributions
 
-### 🏦 Financial & Trading
-- **[simple-orderbook](https://github.com/fghpdf/simple-orderbook)** - High-performance order matching engine in Go
+### 🤖 AI & LLM Platforms
+- **[langgenius/dify](https://github.com/langgenius/dify)** - Production-ready platform for LLM application development
+  - [#30694](https://github.com/langgenius/dify/pull/30694) - Refactor: remove unused type alias VoiceLanguageKey
+  - [#30666](https://github.com/langgenius/dify/pull/30666) - Refactor: remove unnecessary type ignore from rag_pipeline_fields.py
+  - [#30660](https://github.com/langgenius/dify/pull/30660) - Fix: add DB_TYPE environment variable to unit tests
+  
+- **[langgenius/dify-plugin-daemon](https://github.com/langgenius/dify-plugin-daemon)** - Plugin runtime for Dify
+  - [#559](https://github.com/langgenius/dify-plugin-daemon/pull/559) - Fix: support lowercase proxy environment variables fallback
+
+### 🏠 Home Automation
+- **[home-assistant/core](https://github.com/home-assistant/core)** - Open source home automation platform
+  - [#160351](https://github.com/home-assistant/core/pull/160351) - Fix: IndexError in Israel Rail sensor when no departures available
+
+### 🔧 Developer Tools
+- **[OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)** - OpenAPI specification code generator
+  - [#17183](https://github.com/OpenAPITools/openapi-generator/pull/17183) - Fix: C# get file name from content disposition
+  - [#16604](https://github.com/OpenAPITools/openapi-generator/pull/16604) - Fix: C# Deserialize should use ClientUtils to handle headers
+
+## 🌟 Personal Projects
 
 ### 🛠️ DevOps & Infrastructure
 - **[supabase-keepalive-go](https://github.com/fghpdf/supabase-keepalive-go)** - Temporal-powered service to keep Supabase projects awake
 
-### 🌐 Web Scraping & Data
+### 🌐 Web Tools
 - **[gobnb](https://github.com/fghpdf/gobnb)** - Airbnb scraper built with Go
 
 ### 🇯🇵 Japan Life Tools
 - **[japan-etc-to-moze](https://github.com/fghpdf/japan-etc-to-moze)** - Convert Japanese ETC CSV data for Moze App
-- **[japan-family-visit-visa](https://github.com/fghpdf/japan-family-visit-visa)** - Helper tool for Japanese family visit visa applications
-
-## 🏆 Recent Contributions
-
-- 🐛 Fixed lowercase proxy environment variables fallback in [dify-plugin-daemon](https://github.com/langgenius/dify-plugin-daemon/pull/559)
-- 🤝 Actively contributing to Go and TypeScript ecosystems
 
 ## 📫 Get in Touch
 
