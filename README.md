@@ -34,13 +34,7 @@ Software Engineer passionate about building scalable systems and contributing to
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=fghpdf&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -52,6 +46,13 @@ Software Engineer passionate about building scalable systems and contributing to
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fghpdf&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fghpdf&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fghpdf&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fghpdf&theme=tokyonight)
 
 </div>
 
